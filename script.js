@@ -1,4 +1,6 @@
 /* 
+Game is a Tutorial from https://www.youtube.com/c/Frankslaboratory
+
 Declaring Variables
 Older method - var
 BKM - Prefer const, otherwise if variable changes us let
